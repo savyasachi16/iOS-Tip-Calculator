@@ -13,6 +13,7 @@
 		4A7E38CF23AEED60002101A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A7E38CD23AEED60002101A0 /* Main.storyboard */; };
 		4A7E38D123AEED60002101A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A7E38D023AEED60002101A0 /* Assets.xcassets */; };
 		4A7E38D423AEED60002101A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A7E38D223AEED60002101A0 /* LaunchScreen.storyboard */; };
+		4A7E38DC23AF34EC002101A0 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7E38DB23AF34EC002101A0 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4A7E38D023AEED60002101A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A7E38D323AEED60002101A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A7E38D523AEED60002101A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A7E38DB23AF34EC002101A0 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		4A7E38C623AEED60002101A0 /* Tip Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				4A7E38DB23AF34EC002101A0 /* SettingViewController.swift */,
 				4A7E38C723AEED60002101A0 /* AppDelegate.swift */,
 				4A7E38C923AEED60002101A0 /* SceneDelegate.swift */,
 				4A7E38CB23AEED60002101A0 /* ViewController.swift */,
@@ -141,6 +144,7 @@
 				4A7E38CC23AEED60002101A0 /* ViewController.swift in Sources */,
 				4A7E38C823AEED60002101A0 /* AppDelegate.swift in Sources */,
 				4A7E38CA23AEED60002101A0 /* SceneDelegate.swift in Sources */,
+				4A7E38DC23AF34EC002101A0 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
